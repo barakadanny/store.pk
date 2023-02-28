@@ -60,8 +60,6 @@ Store.pk is a fully functional e-commerce website that allows users to browse an
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![React][React.js]][React-url]
 * [![Tailwind][tailwind]][tailwind-url]
 * [![Redux][redux]][redux-url]
