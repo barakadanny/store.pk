@@ -6,7 +6,7 @@
     <img src="readmeImgs/logo.png" alt="Logo" width="100" height="">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">store.pk</h3>
 
   <p align="center">
     <a href="#">View Demo</a>
