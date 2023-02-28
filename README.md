@@ -49,7 +49,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![hero](https://user-images.githubusercontent.com/53088629/221850548-61cf0f5c-7682-4c3d-997d-e0eac3702832.png)
+
 
 Store.pk is a fully functional e-commerce website that allows users to browse and purchase a variety of items. The website is built using ReactJS and Redux Toolkit, and is powered by an API that handles user authentication, item information, and shopping cart management.
 
@@ -119,7 +120,10 @@ _To get this project up and running follow these steps._
 - [ ] User authentication
 - [ ] Checkout
 
+![section1](https://user-images.githubusercontent.com/53088629/221850673-1714f9eb-a1e3-44d9-97cd-1ee7dfade901.png)
+
 See the [open issues](https://github.com/barakadanny/store.pk/issues) for a full list of proposed features (and known issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
